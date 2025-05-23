@@ -4,9 +4,9 @@
     --cor-de-fundo: #ffffff;
     --verde: #ffffff;
     --branco: #0a0a0a;
-    --botao-ativo: #000000;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --botao-ativo: #ffffff;
+    --botao-inativo: rgba(255, 26, 167, 0.5);
+    --texto-fundo: rgba(50, 35, 215, 0.855);
 }
 
 body {
